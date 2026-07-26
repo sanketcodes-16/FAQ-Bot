@@ -209,9 +209,10 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 # 📸 Screenshots
 
 ## 🏠 Home Screen
+---
 
-```
-images/home.png
+![alt text](screenshots/HP.png)
+
 ```
 
 <img src="images/home.png" width="900">
@@ -221,7 +222,8 @@ images/home.png
 ## 📄 Upload PDF
 
 ```
-images/upload.png
+![alt text](screenshots/PDF_UPLOAD.png)
+
 ```
 
 <img src="images/upload.png" width="900">
@@ -231,7 +233,8 @@ images/upload.png
 ## 💬 Chat Interface
 
 ```
-images/chat.png
+![alt text](screenshots/CHAT_INTERFACE.png)
+
 ```
 
 <img src="images/chat.png" width="900">
@@ -241,7 +244,8 @@ images/chat.png
 ## 📄 Source Chunks
 
 ```
-images/source.png
+![alt text](<screenshots/Source chunks.png>)
+
 ```
 
 <img src="images/source.png" width="900">
@@ -251,7 +255,8 @@ images/source.png
 ## 📊 Token Statistics
 
 ```
-images/token_stats.png
+![alt text](<screenshots/Token Statistics.png>)
+
 ```
 
 <img src="images/token_stats.png" width="450">
