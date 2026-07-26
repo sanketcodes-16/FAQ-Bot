@@ -215,8 +215,6 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 
 ```
 
-<img src="images/home.png" width="900">
-
 ---
 
 ## 📄 Upload PDF
@@ -225,8 +223,6 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 ![alt text](screenshots/PDF_UPLOAD.png)
 
 ```
-
-<img src="images/upload.png" width="900">
 
 ---
 
@@ -237,8 +233,6 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 
 ```
 
-<img src="images/chat.png" width="900">
-
 ---
 
 ## 📄 Source Chunks
@@ -248,8 +242,6 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 
 ```
 
-<img src="images/source.png" width="900">
-
 ---
 
 ## 📊 Token Statistics
@@ -258,8 +250,6 @@ If the answer does not exist in the uploaded PDF, the bot replies:
 ![alt text](<screenshots/Token Statistics.png>)
 
 ```
-
-<img src="images/token_stats.png" width="450">
 
 ---
 
